@@ -3,8 +3,8 @@
 
 <div align="center">
     <b>Software Developer and Graphic Designer</b>
-    <br>
 </div>
+<br>
 
 ```javascript
 const nicholas = {
