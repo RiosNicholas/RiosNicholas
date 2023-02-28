@@ -2,9 +2,7 @@
 <br>
 <div align="center">
     <b>Developer and Designer</b>
-    
-    An undergraduate student at Rutgers University-Newark, currently pursuing a Bachelor's degree in Computer Science with a minor in Data Science.
-     
+    📚 Currently learning Front-End Development
 </div>
 
 <div align="center">
