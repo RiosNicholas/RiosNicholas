@@ -10,7 +10,7 @@
 const nicholas = {
     pronouns: "he" | "him",
     languages: ["Python", "Java", "Swift", "JavaScript", "CSS"],
-    tools: ["Git", "Jupyter Notebook", "Unix Command Line", "Adobe Photoshop", "Figma"],
+    tools: ["Git", "Jupyter Notebook", "Unix Command Line", "Emacs", "VS Code", "Adobe Photoshop", "Figma"],
     techCommunities: {
                         president: "Computer Science Developers Club",
                         member: "ColorStack",
