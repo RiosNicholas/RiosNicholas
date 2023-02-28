@@ -2,15 +2,15 @@
 <br>
 
 <div align="center">
-  *Software Developer and Graphic Designer*
+    <b>Software Developer and Graphic Designer</b>
 </div>
 
 ```javascript
 const nicholas = {
-  pronouns: "he" | "him",
-  languages: ["Python", "Java", "Swift", "JavaScript", "CSS"],
-  tools: ["Git", "Jupyter Notebook", "Unix Command Line", "Adobe Photoshop", "Figma"],
-  techCommunities: {
+    pronouns: "he" | "him",
+    languages: ["Python", "Java", "Swift", "JavaScript", "CSS"],
+    tools: ["Git", "Jupyter Notebook", "Unix Command Line", "Adobe Photoshop", "Figma"],
+    techCommunities: {
                         president: "Computer Science Developers Club",
                         member: "ColorStack",
                         member: "CodePath",
