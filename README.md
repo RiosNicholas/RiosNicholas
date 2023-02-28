@@ -1,8 +1,9 @@
-### Hi 👋, I'm Nicholas!
+<h1 align="center">Hi 👋, I'm Nicholas!</h1>
+<br>
 <div align="center">
-    <h2>Developer. Designer.</h2>
+    Developer and Designer
     
-    <p>I’m Nicholas Rios, an undergraduate student at Rutgers University-Newark, currently pursuing a Bachelor's degree in Computer Science with a minor in Data Science.  </p>
+    An undergraduate student at Rutgers University-Newark, currently pursuing a Bachelor's degree in Computer Science with a minor in Data Science.
      
 </div>
 
