@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nicholas!</h1>
 <br>
 
+<div align="center">
+  *Software Developer and Graphic Designer*
+</div>
+
 ```javascript
 const nicholas = {
   pronouns: "he" | "him",
