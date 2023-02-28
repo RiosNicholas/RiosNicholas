@@ -3,9 +3,7 @@
 <div align="center">
     <b>Developer and Designer</b><br>
     📚 Currently learning Front-End Development
-</div>
-
----
+</div> <br>
 
 <div align="center">
     <i>Let's Connect</i><br>
