@@ -2,7 +2,6 @@
 <br>
 <div align="center">
     <b>Software Developer and Designer</b><br>
-    📚 Currently learning Front-End Development
 </div> 
 <br>
 
