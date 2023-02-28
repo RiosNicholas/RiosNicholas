@@ -5,8 +5,10 @@
     📚 Currently learning Front-End Development
 </div>
 
+---
+
 <div align="center">
-    <i>Let's Connect </i>
+    <i>Let's Connect</i><br>
     <a href="https://www.linkedin.com/in/nicholas-rios/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
