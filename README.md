@@ -15,7 +15,7 @@ const nicholas = {
                         president: "Computer Science Developers Club",
                         member: "ColorStack",
                         member: "CodePath",
-                        member: "GS-LSAMP"
+                        member: "GS-LSAMP",
                       } 
 };
 ```
