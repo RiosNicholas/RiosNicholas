@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicholas!</h1>
 <br>
-<div align="center">
-    <b>Software Developer and Designer</b><br>
-</div> 
-<br>
 
 ```javascript
 const nicholas = {
@@ -14,11 +10,12 @@ const nicholas = {
                         president: "Computer Science Developers Club",
                         member: "ColorStack",
                         member: "CodePath",
-                      }
+                      } 
 };
 ```
 
 ---
+
 <div align="center">
     <i>Let's Connect</i>
     <br>
