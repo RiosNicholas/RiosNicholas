@@ -18,8 +18,8 @@
 ```javascript
 const nicholas = {
   pronouns: "he" | "him",
-  languages: [Python, Java, Swift, JavaScript, CSS],
-  tools: [Git, Jupyter Notebook, Unix Command Line, Adobe Photoshop, Figma],
+  languages: ["Python", "Java", "Swift", "JavaScript", "CSS"],
+  tools: ["Git", "Jupyter Notebook", "Unix Command Line", "Adobe Photoshop", "Figma"],
   techCommunities: {
                         president: "Computer Science Developers Club",
                         member: "ColorStack",
