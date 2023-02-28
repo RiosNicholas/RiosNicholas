@@ -25,7 +25,7 @@ const nicholas = {
                         member: "ColorStack",
                         member: "CodePath",
                       }
-}
+};
 ```
 
 <!--
