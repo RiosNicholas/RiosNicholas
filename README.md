@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas!</h1>
 <br>
 <div align="center">
-    <b>Developer and Designer</b>
+    <b>Developer and Designer</b><br>
     📚 Currently learning Front-End Development
 </div>
 
