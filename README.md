@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas!</h1>
 <br>
 <div align="center">
-    <h2>Developer and Designer</h2>
+    <b>Developer and Designer</b>
     
     An undergraduate student at Rutgers University-Newark, currently pursuing a Bachelor's degree in Computer Science with a minor in Data Science.
      
