@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-    <h1>Developer and Designer</h1>
+    <b>Software Developer and Graphic Designer</b>
 </div>
 <br>
 
