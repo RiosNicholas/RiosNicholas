@@ -9,7 +9,7 @@
 ```javascript
 const nicholas = {
     pronouns: "he" | "him",
-    languages: ["Python", "Java", "Swift", "JavaScript", "CSS"],
+    languages: ["Python", "Java", "Swift", "JavaScript", "CSS/HTML"],
     tools: ["Git", "Jupyter Notebook", "Unix Command Line", "Doom Emacs", "VS Code", "Adobe Photoshop", "Figma"],
     techCommunities: {
                         president: "Computer Science Developers Club",
