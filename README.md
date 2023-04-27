@@ -12,7 +12,7 @@ const nicholas = {
     languages: ["Python", "Java", "Swift", "JavaScript", "CSS/HTML"],
     tools: ["Git", "Jupyter Notebook", "Unix Command Line", "Doom Emacs", "VS Code", "Adobe Photoshop", "Figma"],
     techCommunities: {
-                        president: "Computer Science Developers Club",
+                        president/co-founder: "ColorStack @ Rutgers University – Newark",
                         member: "ColorStack",
                         member: "CodePath",
                         member: "GS-LSAMP",
