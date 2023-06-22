@@ -9,8 +9,7 @@
 ```javascript
 const nicholas = {
     pronouns: "he" | "him",
-    languages: ["Python", "Java", "Swift", "JavaScript", "CSS/HTML"],
-    tools: ["Git", "Jupyter Notebook", "Unix Command Line", "Doom Emacs", "VS Code", "Adobe Photoshop", "Figma"],
+    languages: ["C#", "Python", "Java", "Swift", "JavaScript", "CSS/HTML"],
     techCommunities: {
                         president: "ColorStack @ Rutgers University – Newark",
                         member: "ColorStack",
