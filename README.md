@@ -11,7 +11,7 @@ const nicholas = {
     pronouns: "he" | "him",
     languages: ["C#", "Python", "Java", "Swift", "JavaScript", "CSS/HTML"],
     techCommunities: {
-                        president: "ColorStack @ Rutgers University – Newark",
+                        president: "ColorStack @ Rutgers University",
                         member: "ColorStack",
                         member: "CodePath",
                         member: "GS-LSAMP",
