@@ -2,14 +2,14 @@
 <br>
 
 <div align="center">
-    <b>Software Developer and Graphic Designer</b>
+    <b>Software Developer and Design Enthusiast</b>
 </div>
 <br>
 
 ```javascript
 const nicholas = {
     pronouns: "he" | "him",
-    languages: ["C#", "Python", "Java", "Swift", "JavaScript", "CSS/HTML"],
+    languages: ["C#", "Python", "Java", "Swift", "TypeScript/JavaScript", "CSS/HTML"],
     techCommunities: {
                         president: "ColorStack @ Rutgers University",
                         member: "ColorStack",
