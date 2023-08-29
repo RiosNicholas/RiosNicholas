@@ -16,7 +16,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-rios/) and ch
 
 #### 📊 GitHub Stats
 
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiosNicholas&show_icons=true&theme=radical)
 
 
 
