@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nicholas!</h1>
-👨‍💻 Software Developer | 💡 Human-Centered Design Advocate | 🌍 FOSS Enthusiast
+## 👨‍💻 Software Developer | 💡 Human-Centered Design Advocate | 🌍 FOSS Enthusiast
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-rios/) and check out some of my artistic work on [Flickr](https://www.flickr.com/photos/nicholas-rios/) 📸.
 
@@ -15,8 +15,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-rios/) and ch
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 #### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiosNicholas&show_icons=true&theme=dark" alt="Nicholas's GitHub Stats">
+</div>
 
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiosNicholas&show_icons=true&theme=radical)
 
 
 
