@@ -5,7 +5,6 @@
 <div align="center">  
   
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -25,6 +24,7 @@
   ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF5733?style=flat&logo=rest-api&logoColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
