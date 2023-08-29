@@ -1,18 +1,23 @@
 <h1 align="center">Hey 👋, I'm Nicholas!</h1>
-<br>
-<div align="center">
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nicholas-rios/)
-</div>
+👨‍💻 Software Developer | 💡 Human-Centered Design Advocate | 🌍 FOSS Enthusiast
 
-```javascript
-const nicholas = {
-    languages: ["C#", "Python", "Java", "Swift", "TypeScript/JavaScript", "CSS/HTML"],
-    techCommunities: {
-                        president: "ColorStack @ Rutgers University",
-                        member: "ColorStack",
-                        member: "CodePath",
-                        member: "GS-LSAMP",
-                      } 
-};
-```
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-rios/) and check out some of my artistic work on [Flickr](https://www.flickr.com/photos/nicholas-rios/) 📸.
+
+#### 🛠️ Tech Toolbox
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### 📊 GitHub Stats
+
+![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+
 
