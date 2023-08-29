@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nicholas!</h1>
-<h2 align="center"> 👨‍💻 Software Developer | 💡 Human-Centered Design Advocate | 🌍 FOSS Enthusiast</h2>
+<h3 align="center"> 👨‍💻 Software Developer | 💡 Human-Centered Design Advocate | 🌍 FOSS Enthusiast</h3>
 
 #### 🛠️ Toolbox
 <div align="center">  
