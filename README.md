@@ -5,6 +5,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-rios/) and ch
 
 #### 🛠️ Toolbox
 <div align="center">  
+  
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -13,6 +14,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-rios/) and ch
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  
 </div>
 
 #### 📊 GitHub Stats
