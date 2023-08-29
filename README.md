@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Nicholas!</h1>
 <h2 align="center"> 👨‍💻 Software Developer | 💡 Human-Centered Design Advocate | 🌍 FOSS Enthusiast</h2>
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-rios/) and check out some of my artistic work on [Flickr](https://www.flickr.com/photos/nicholas-rios/) 📸.
-
 #### 🛠️ Toolbox
 <div align="center">  
   
