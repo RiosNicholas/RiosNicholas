@@ -1,9 +1,10 @@
-<h1 align="center">Hey 👋, I'm Nicholas!</h1>
+c<h1 align="center">Hey 👋, I'm Nicholas!</h1>
 <h3 align="center"> 👨‍💻 Software Developer | 💡 Human-Centered Design Advocate | 🌍 FOSS Enthusiast</h3>
 
 #### 🛠️ Toolbox
 <div align="center">  
-  
+
+  ![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
