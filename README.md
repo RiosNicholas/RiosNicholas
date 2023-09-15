@@ -4,7 +4,7 @@
 #### 🛠️ Toolbox
 <div align="center">  
 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
