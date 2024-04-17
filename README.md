@@ -1,6 +1,3 @@
-<h1 align="center">Hey 👋, I'm Nicholas!</h1>
-<h3 align="center"> 👨‍💻 Software Developer | 💡 Design Enthusiast | 🌍 FOSS Advocate</h3>
-
 #### 🛠️ Toolbox
 <div align="center">  
 
