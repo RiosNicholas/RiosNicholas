@@ -14,7 +14,6 @@
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
   ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
   ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
