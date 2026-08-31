@@ -1,9 +1,7 @@
 ```
  ___________________    shell     : fish
 | .---------------. |   stack     : TypeScript · React · Next.js
-| |               | |   interests : design systems, DX, agentic tooling
-| | nrios@macbook | |   brew      : colombian caturra (washed) · V60 · 1:16 · 93°C
-| |               | |   ride      : vintage steel road bike
-| '---------------' |   lang      : aprendendo português
+| | nrios@macbook | |   interests : design systems, DX, agentic tooling
+| '---------------' |   brew      : colombian caturra (washed) · V60 · 1:16 · 197°F
 |___________________|   uptime    : too many tabs
 ```
